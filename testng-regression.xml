@@ -3,11 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/lenovo/Documents/E/Testing/selenium-project/maven_project/SampleJenkinsProject">
         <classes>
-            <class name="com.afk.LoginTest">
-                <methods>
-                    <include name="test"/>
-                </methods>
-            </class>
+            <class name="com.afk.HomePageTest"/>
+            <class name="com.afk.LoginTest"/>
         </classes>
     </test>
 </suite>
